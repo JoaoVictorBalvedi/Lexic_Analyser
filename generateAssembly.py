@@ -1,9 +1,6 @@
-# Grupo: <nome do grupo no Canvas>
-# Integrantes (ordem alfabetica):
-#   Aluno 1 - @github1
-#   Aluno 2 - @github2
-#   Aluno 3 - @github3
-#   Aluno 4 - @github4
+# Grupo: <RA1 22>
+# Integrante:
+# João Victor Balvedi - @JoaoVictorBalvedi
 
 
 def registrarConstante(valor, contexto):
